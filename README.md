@@ -64,7 +64,15 @@ The best-performing model achieved strong predictive performance in identifying 
 hosp_readmission.ipynb
 README.md
 requirements.txt
-```
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
+``````
 
 ---
 
