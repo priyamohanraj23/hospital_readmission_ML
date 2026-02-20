@@ -77,4 +77,4 @@ pip install -r requirements.txt
 ---
 
 ## 👩‍💻 Author
-Priya
+Priya Mohanraj
